@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winsoft15
+- 👋 Hi, I’m Harsh Rawat
 - 🌱 I’m currently learning C++
 
 <!---
